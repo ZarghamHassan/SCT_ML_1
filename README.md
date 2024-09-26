@@ -56,7 +56,7 @@ pip install pandas scikit-learn joblib
    cd house-price-prediction
    ```
 2. **Prepare Your Data**:
-    Ensure that you have the training dataset (`train.csv`) and the testing dataset (`test.csv) in the root directory of the project.
+    Ensure that you have the training dataset (`train.csv`) and the testing dataset (`test.csv`) in the root directory of the project.
 3. **Train the Model**: Run the following script to train the model and save it:
    ```bash
    python House Prediction Model.py
