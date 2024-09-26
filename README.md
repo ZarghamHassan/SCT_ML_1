@@ -11,6 +11,10 @@ This project implements a machine learning model to predict house prices based o
 - **Model Saving**: The trained model is saved for reuse without needing to retrain.
 - **Input Validation**: Ensures that users enter valid numeric values for prediction.
 
+## Model
+
+This project utilizes a **Linear Regression** model from the `scikit-learn` library to predict house prices based on input features. The model is trained on historical housing data and saved as `house_prediction_model.pkl` for future predictions.
+
 ## Technologies Used
 
 - Python
